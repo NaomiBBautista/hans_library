@@ -9,7 +9,7 @@ En este proyecto implementaremos una API para una Biblioteca Digital, la cual se
 ### Aplicación Web:
 Nuestra página web es una aplicación CRUD que permite crear, eliminar, actualizar y visualizar registros de libros. Además, incluye la funcionalidad de crear categorías, las cuales están asociadas a los libros como atributos. Todos estos procesos se realizan a través de endpoints conectados a nuestra base de datos mediante una API. Posteriormente, la aplicación se implementa en un servidor Nginx dentro de un droplet en DigitalOcean.
 
-Si deseas acceder a nuestra aplicación web, [haz clic aquí.][http://157.230.222.10/]
+Si deseas acceder a nuestra aplicación web, [haz clic aquí.](http://157.230.222.10/)
 
 ### Capturas de Pantalla:
 **INICIO**
