@@ -12,25 +12,29 @@ Nuestra página web es una aplicación CRUD que permite crear, eliminar, actuali
 Si deseas acceder a nuestra aplicación web, [haz clic aquí.](http://157.230.222.10/)
 
 ### Capturas de Pantalla:
-**INICIO**
+#### **INICIO**
+
 Al ingresar, nos encontramos con la siguiente página de inicio:
 
 ![Inicio](imagenes/img1.png)
 
-**LIBROS DISPONIBLES**
+#### **LIBROS DISPONIBLES**
+
 Dentro de la sección de ‘Libros Disponibles’ hacemos uso de los endpoints GET BOOKS, puesto que nos muestra toda la información de los libros que tenemos creados en nuestra base de datos, podemos filtrar por medio de código o categoria, al igual que actualizar o eliminar los libros :
 
-![Libros Disponibles](imagenes/img2,png)
+![Libros Disponibles](imagenes/img2.png)
 
-**REGISTRAR LIBRO**
+#### **REGISTRAR LIBRO**
+
 Dentro de la sección ‘Registrar Libro’ podremos crear un nuevo libro con ayuda de nuestro endpoint CREATE BOOK:
 
-![Libros Disponibles](imagenes/img3,png)
+![Libros Disponibles](imagenes/img3.png)
 
-**CREAR CATEGORÍAS**
+#### **CREAR CATEGORÍAS**
+
 Finalmente, en nuestra última sección ‘Crear Categoria’ podremos ver todas las categorías que tenemos creadas, filtrarlas por ID, actualizarlas o eliminarlas, todo esto con ayuda de nuestros endpoints de CATEGORIAS:
 
-![Libros Disponibles](imagenes/img4,png)
+![Libros Disponibles](imagenes/img4.png)
 
 
 
